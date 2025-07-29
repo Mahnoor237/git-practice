@@ -1,2 +1,1 @@
-"Hello Git from the correct folder!" 
-"This is a new feature!" 
+"This is a change from MAIN branch" 
